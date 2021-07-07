@@ -1,0 +1,4 @@
+[package]
+description = a script that counts the http headers.
+version = 1.0
+script_dir = scripts
